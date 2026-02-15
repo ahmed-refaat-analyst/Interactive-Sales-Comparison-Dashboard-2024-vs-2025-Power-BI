@@ -3,8 +3,9 @@
 **🔒 Note:** The data used in this project is **simulated for educational purposes only** and does not represent any real or sensitive data.
 
 ![Total Sales](Total%20Sales.PNG)  
-![Sales 2025](Sales%2025.PNG)  
-![Sales 2024](Sales%2024.PNG)  
+![Sales 2025](Sales%202025.PNG)  
+![Sales 2024](Sales%202024.PNG)  
+
 
 ## 🎥 Project Video  
 [▶️ Watch Project Demo](Sales%20Comparison.mp4)
