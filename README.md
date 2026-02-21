@@ -18,9 +18,9 @@ It represents a significant improvement over previous versions, with full-year c
 
 The report includes:
 
-- **Overview Page** – High-level summary with interactive navigation to explore each year  
-- **2025 Dashboard** – Detailed performance analysis highlighting key trends, growth areas, and KPIs  
-- **2024 Dashboard** – Baseline for year-over-year comparisons to identify performance gaps  
+- **Overview Page** : High-level summary with interactive navigation to explore each year  
+- **2025 Dashboard** : Detailed performance analysis highlighting key trends, growth areas, and KPIs  
+- **2024 Dashboard** : Baseline for year-over-year comparisons to identify performance gaps  
 - Advanced **delta analysis** to measure changes between periods accurately  
 
 ---
@@ -42,4 +42,4 @@ The purpose of this dashboard is to:
 
 - Compare sales performance across 2024 and 2025  
 - Identify key trends, growth areas, and performance gaps  
-- Prov
+
